@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://fjeronimo42.github.io/ffjeronimo.github.io//al-folio/sitemap.xml
